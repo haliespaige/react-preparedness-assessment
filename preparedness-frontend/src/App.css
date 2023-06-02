@@ -1,0 +1,41 @@
+
+body {
+    background-image: url(https://github.com/learn-academy-2023-charlie/preparedness-assessment-haliespaige/blob/main/preparedness-frontend/src/assets/background-image.jpeg?raw=true);
+    background-size: cover;
+    background-position: center; 
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.input {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 6px 12px;
+    display: block;
+
+  }
+
+  #name {
+    font-size: 18px
+  }
+
+  .button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #button {
+    background-color: #0dcaf0;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    width: 100px
+  }
